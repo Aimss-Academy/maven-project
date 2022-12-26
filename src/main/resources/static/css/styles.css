@@ -1,0 +1,40 @@
+.app-container {
+  height: 100vh;
+}
+
+.main-heading {
+  margin-top: 15px;
+}
+
+.content-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+}
+
+.form-control {
+  margin-top: 150px;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 250px;
+}
+
+.heading {
+  color: blue;
+}
+
+.label {
+  margin-top: 10px;
+}
+
+.input {
+  margin-top: 5px;
+}
+
+.btn {
+  margin-top: 10px;
+}
